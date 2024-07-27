@@ -1,3 +1,2 @@
-hostnaame -I
-ech kk
-ped
+hostname -I
+echo ab sahi h
