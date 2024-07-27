@@ -1,3 +1,3 @@
-hostname -I
-echo BHUPINDER TUCCCI GREAT HO
-echo BHUPINDER BBAY
+hostnaame -I
+ech kk
+ped
